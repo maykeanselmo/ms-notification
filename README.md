@@ -6,7 +6,6 @@ O MS Notification é responsável por receber e armazenar notificações de alte
 ### Dependências
 - Spring Boot 3
 - Spring Web
-- Spring Data JPA
 - Spring Validation
 - Spring DevTools
 - ModelMapper
